@@ -73,7 +73,7 @@ These considerations highlight the need for a **balanced, human-centered approac
 - Investigate deployment in classroom settings with transparency and ethics in mind.
 
 ## Coursework & Contributors 
-- **Coursework:** Completed as part of **[Course Name/Code Here]**, with a focus on AI applications in education, natural language processing, and interactive learning systems.
+- **Coursework:** Completed as part of **BA840 - Data Ethics** course (Boston University MSBA), with a focus on AI applications in education, natural language processing, and interactive learning systems.
 - **Contributors:**  
   - Gunjan Sharma
   - Jasmine Gohil
